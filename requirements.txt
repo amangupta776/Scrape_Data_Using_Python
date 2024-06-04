@@ -1,0 +1,6 @@
+psycopg2
+python-dotenv
+bs4
+requests
+dotenv
+
